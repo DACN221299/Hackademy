@@ -1,0 +1,21 @@
+.color{
+    color: white;
+}
+#boton1{
+    background-color: white;
+    color: black;
+}
+#were
+{
+    font-size: 5em;
+    font-weight: 400;
+}
+#foter{
+    position: absolute;
+    margin-bottom: 0em;
+}
+ul{
+    list-style: none;
+    text-align: left;
+    padding-left: 0%;
+}
